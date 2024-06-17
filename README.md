@@ -7,3 +7,5 @@
 - [ESI, from where you can register for exams, join the class and prepare for exams](https://esi.microsoft.com)
 - [Certification exams poster](https://aka.ms/TrainCertPoster)
 - [Lab hosting environment](https://esi.learnondemand.net/)
+- [10+ deploys per day at Flickr - Talk that sparked the DevOps movement](https://www.youtube.com/watch?v=LdOe18KhtT4)
+- 
