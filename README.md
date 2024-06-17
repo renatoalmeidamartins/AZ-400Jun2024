@@ -15,3 +15,5 @@
 - [12-factor app](https://12factor.net/)
 - [Principles behind the Agile manifesto](https://agilemanifesto.org/principles.html)
 - [Measure what matters - excellent book about defining OKRs](https://www.amazon.com/Measure-What-Matters-Google-Foundation/dp/0525536221/)
+- [Git book](https://git-scm.com/book/en/v2)
+- 
