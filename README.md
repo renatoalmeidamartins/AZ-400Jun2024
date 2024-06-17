@@ -25,3 +25,4 @@
   - [On Azure Repos/GitHub](https://learn.microsoft.com/en-us/azure/devops/repos/git/manage-large-files?view=azure-devops)
 - [Scalar doc, now part of the git toolset](https://git-scm.com/docs/git)
 - [Removing sensitive data from repos](https://docs.github.com/en/enterprise-cloud@latest/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository)
+- [Semantic versioning](https://semver.org/)
