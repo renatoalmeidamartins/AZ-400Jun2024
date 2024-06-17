@@ -12,3 +12,6 @@
 - [The Phoenix project](https://www.amazon.com/The-Phoenix-Project-audiobook/dp/B00VATFAMI)
 - [The unicorn project](https://www.amazon.com/dp/B0812C82T9?plink=NwPSkdwySXbn2OIL)
 - [There's no place like production, interesting blog post from 2010 hinting into CI/CD](https://imwrightshardcode.com/2010/12/theres-no-place-like-production/)
+- [12-factor app](https://12factor.net/)
+- [Principles behind the Agile manifesto](https://agilemanifesto.org/principles.html)
+- [Measure what matters - excellent book about defining OKRs](https://www.amazon.com/Measure-What-Matters-Google-Foundation/dp/0525536221/)
