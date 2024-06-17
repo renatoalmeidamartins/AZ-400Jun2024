@@ -8,4 +8,4 @@
 - [Certification exams poster](https://aka.ms/TrainCertPoster)
 - [Lab hosting environment](https://esi.learnondemand.net/)
 - [10+ deploys per day at Flickr - Talk that sparked the DevOps movement](https://www.youtube.com/watch?v=LdOe18KhtT4)
-- 
+- [DevOps handbook](https://www.amazon.com/DevOps-Handbook-Second-World-Class-Organizations/dp/B09L56CT6N)
