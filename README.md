@@ -16,4 +16,7 @@
 - [Principles behind the Agile manifesto](https://agilemanifesto.org/principles.html)
 - [Measure what matters - excellent book about defining OKRs](https://www.amazon.com/Measure-What-Matters-Google-Foundation/dp/0525536221/)
 - [Git book](https://git-scm.com/book/en/v2)
-- 
+- [Git flow branching strategy](https://nvie.com/posts/a-successful-git-branching-model/)
+- [GitHub flow](https://docs.github.com/en/get-started/using-github/github-flow)
+- [Conventional commits - a good spec for defining commit messages](https://www.conventionalcommits.org/)
+- [Available git hooks](https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks)
