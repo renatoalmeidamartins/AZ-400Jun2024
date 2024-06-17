@@ -11,3 +11,4 @@
 - [DevOps handbook](https://www.amazon.com/DevOps-Handbook-Second-World-Class-Organizations/dp/B09L56CT6N)
 - [The Phoenix project](https://www.amazon.com/The-Phoenix-Project-audiobook/dp/B00VATFAMI)
 - [The unicorn project](https://www.amazon.com/dp/B0812C82T9?plink=NwPSkdwySXbn2OIL)
+- [There's no place like production, interesting blog post from 2010 hinting into CI/CD](https://imwrightshardcode.com/2010/12/theres-no-place-like-production/)
