@@ -26,3 +26,6 @@
 - [Scalar doc, now part of the git toolset](https://git-scm.com/docs/git)
 - [Removing sensitive data from repos](https://docs.github.com/en/enterprise-cloud@latest/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository)
 - [Semantic versioning](https://semver.org/)
+- [Swagger OpenAPI - excellent way to generate API docs](https://swagger.io/solutions/api-documentation/)
+- [Terraform docs generation](https://github.com/terraform-docs/terraform-docs)
+- 
