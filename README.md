@@ -30,4 +30,7 @@
 - [Terraform docs generation](https://github.com/terraform-docs/terraform-docs)
 
 ## Day 2 links
-- [Azure devops with Jenkins](https://learn.microsoft.com/en-us/azure/devops/service-hooks/services/jenkins?view=azure-devops) 
+- [Azure devops with Jenkins](https://learn.microsoft.com/en-us/azure/devops/service-hooks/services/jenkins?view=azure-devops)
+- [Azure Pieplines Task reference](https://learn.microsoft.com/en-us/azure/devops/pipelines/tasks/reference/?view=azure-pipelines)
+- [Installing Azure DevOps Server](https://learn.microsoft.com/en-us/azure/devops/server/install/get-started?view=azure-devops-2022)
+- 
