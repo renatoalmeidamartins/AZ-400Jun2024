@@ -43,3 +43,8 @@
 - [GitHub default environment variables](https://docs.github.com/en/actions/learn-github-actions/variables#default-environment-variables)
 -[Creating GitHub actions](https://docs.github.com/en/actions/creating-actions)
 - [Docker multi-stage build](https://docs.docker.com/build/building/multi-stage/)
+- [Azure container instances - container groups](https://learn.microsoft.com/en-us/azure/container-instances/container-instances-container-groups)
+- [Compare Azure container hosting options](https://learn.microsoft.com/en-us/azure/container-apps/compare-options)
+- [Azure Container apps](https://learn.microsoft.com/en-us/azure/container-apps/overview)
+- 
+- 
