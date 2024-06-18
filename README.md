@@ -47,4 +47,6 @@
 - [Compare Azure container hosting options](https://learn.microsoft.com/en-us/azure/container-apps/compare-options)
 - [Azure Container apps](https://learn.microsoft.com/en-us/azure/container-apps/overview)
 - [Azure DevOps service status](https://status.dev.azure.com/_history)
-- 
+- [GitOps with Flux](https://learn.microsoft.com/en-us/azure/azure-arc/kubernetes/tutorial-gitops-flux2-ci-cd)
+  - [Argocd, a good framweork for GitOps](https://argo-cd.readthedocs.io/en/stable/)
+  - [Flux, another good GitOps tool](https://github.com/fluxcd/flux2)
