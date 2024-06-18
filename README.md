@@ -28,4 +28,6 @@
 - [Semantic versioning](https://semver.org/)
 - [Swagger OpenAPI - excellent way to generate API docs](https://swagger.io/solutions/api-documentation/)
 - [Terraform docs generation](https://github.com/terraform-docs/terraform-docs)
-- 
+
+## Day 2 links
+- [Azure devops with Jenkins](https://learn.microsoft.com/en-us/azure/devops/service-hooks/services/jenkins?view=azure-devops) 
