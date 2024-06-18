@@ -38,4 +38,4 @@
 - [Network requirements to have MS-hosted agents talking to on-prem resources - hin: VPN or ExpressRoute can't be used](https://learn.microsoft.com/en-us/azure/devops/pipelines/agents/hosted?view=azure-devops&tabs=yaml#networking)
 - [Pipeline agent details](https://learn.microsoft.com/en-us/azure/devops/pipelines/agents/agents?view=azure-devops&tabs=yaml%2Cbrowser)
 - [GitHub Actions repos](https://github.com/actions)
-- 
+- [Azure Pipeline Template reference](https://learn.microsoft.com/en-us/azure/devops/pipelines/process/templates?view=azure-devops&pivots=templates-includes)
