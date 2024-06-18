@@ -46,5 +46,5 @@
 - [Azure container instances - container groups](https://learn.microsoft.com/en-us/azure/container-instances/container-instances-container-groups)
 - [Compare Azure container hosting options](https://learn.microsoft.com/en-us/azure/container-apps/compare-options)
 - [Azure Container apps](https://learn.microsoft.com/en-us/azure/container-apps/overview)
-- 
+- [Azure DevOps service status](https://status.dev.azure.com/_history)
 - 
