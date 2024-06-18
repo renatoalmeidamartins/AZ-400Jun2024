@@ -52,3 +52,5 @@
   - [Flux, another good GitOps tool](https://github.com/fluxcd/flux2)
 - [Generic job definitions](https://learn.microsoft.com/en-us/azure/devops/pipelines/process/phases?view=azure-devops&tabs=yaml#types-of-jobs)
   [Deployment jobs](https://learn.microsoft.com/en-us/azure/devops/pipelines/process/phases?view=azure-devops&tabs=yaml#types-of-jobs)
+- [Auditing Azure DevOps (in preview)](https://learn.microsoft.com/en-us/azure/devops/organizations/audit/azure-devops-auditing?view=azure-devops&tabs=preview-page)
+- [Collecting an Audit stream](https://learn.microsoft.com/en-us/azure/devops/organizations/audit/auditing-streaming?view=azure-devops)
