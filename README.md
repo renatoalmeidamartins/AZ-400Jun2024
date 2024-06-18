@@ -41,3 +41,4 @@
 - [Azure Pipeline Template reference](https://learn.microsoft.com/en-us/azure/devops/pipelines/process/templates?view=azure-devops&pivots=templates-includes)
 - [GitHub Actions syntax](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions)
 - [GitHub default environment variables](https://docs.github.com/en/actions/learn-github-actions/variables#default-environment-variables)
+-[Creating GitHub actions](https://docs.github.com/en/actions/creating-actions)
