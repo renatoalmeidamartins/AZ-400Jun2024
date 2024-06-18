@@ -50,3 +50,5 @@
 - [GitOps with Flux](https://learn.microsoft.com/en-us/azure/azure-arc/kubernetes/tutorial-gitops-flux2-ci-cd)
   - [Argocd, a good framweork for GitOps](https://argo-cd.readthedocs.io/en/stable/)
   - [Flux, another good GitOps tool](https://github.com/fluxcd/flux2)
+- [Generic job definitions](https://learn.microsoft.com/en-us/azure/devops/pipelines/process/phases?view=azure-devops&tabs=yaml#types-of-jobs)
+  [Deployment jobs](https://learn.microsoft.com/en-us/azure/devops/pipelines/process/phases?view=azure-devops&tabs=yaml#types-of-jobs)
