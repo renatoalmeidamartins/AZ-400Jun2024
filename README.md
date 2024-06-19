@@ -54,3 +54,8 @@
   [Deployment jobs](https://learn.microsoft.com/en-us/azure/devops/pipelines/process/phases?view=azure-devops&tabs=yaml#types-of-jobs)
 - [Auditing Azure DevOps (in preview)](https://learn.microsoft.com/en-us/azure/devops/organizations/audit/azure-devops-auditing?view=azure-devops&tabs=preview-page)
 - [Collecting an Audit stream](https://learn.microsoft.com/en-us/azure/devops/organizations/audit/auditing-streaming?view=azure-devops)
+
+## Day 3 links
+- Using OIDC to allow GitHub actions to access Azure without secrets or certificates
+  - [Azure doc](https://learn.microsoft.com/en-us/azure/developer/github/connect-from-azure?tabs=azure-portal%2Clinux)
+  - [GitHub doc](https://docs.github.com/en/actions/deployment/security-hardening-your-deployments/configuring-openid-connect-in-azure)
