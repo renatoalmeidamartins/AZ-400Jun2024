@@ -77,3 +77,4 @@
   - [Quickstart ARM templates](https://github.com/Azure/azure-quickstart-templates/tree/master)
   - [Azure automation GitHub organization[(https://github.com/azureautomation)
     - [Runbooks gallery](https://github.com/azureautomation/runbooks)
+  - [DSC - Desired State Configuration - for Linux](https://learn.microsoft.com/en-us/powershell/dsc/getting-started/lnxgettingstarted?view=dsc-1.1) 
