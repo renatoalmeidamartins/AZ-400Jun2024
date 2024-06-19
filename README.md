@@ -72,5 +72,5 @@
   - [Using key vault references in Azure App Service](https://learn.microsoft.com/en-us/azure/app-service/app-service-key-vault-references?tabs=azure-cli)
   - [Azure built-in roles](https://learn.microsoft.com/en-us/azure/role-based-access-control/built-in-roles)
   - [Clean Code, a very powerful book about good coding practices - writing it so well that comments shouldn't be needed](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/)
-    - 
-  - 
+  - [ARM template reference](https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/syntax)
+  - [Key vault reference in ARM templates](https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/key-vault-parameter?tabs=azure-cli)
