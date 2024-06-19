@@ -59,3 +59,12 @@
 - Using OIDC to allow GitHub actions to access Azure without secrets or certificates
   - [Azure doc](https://learn.microsoft.com/en-us/azure/developer/github/connect-from-azure?tabs=azure-portal%2Clinux)
   - [GitHub doc](https://docs.github.com/en/actions/deployment/security-hardening-your-deployments/configuring-openid-connect-in-azure)
+  - [Default variables in classic pipelines](https://learn.microsoft.com/en-us/azure/devops/pipelines/release/variables?view=azure-devops&tabs=batch)
+  - [Predefined variables for YAML pipelines](https://learn.microsoft.com/en-us/azure/devops/pipelines/build/variables?view=azure-devops&tabs=yaml)
+  - [Martin Fowler's book "Patterns of Enterprise Application Architecture"](https://martinfowler.com/books/eaa.html)
+  - Strangler Fig pattern, a good way to break a monolyth into microservices
+    - [Martin Fowler's original definition](https://martinfowler.com/bliki/StranglerFigApplication.html)
+    - [Discussion in the Azure Architecture Center](https://learn.microsoft.com/en-us/azure/architecture/patterns/strangler-fig)
+   
+    - 
+  - 
