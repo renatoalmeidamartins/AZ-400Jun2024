@@ -74,3 +74,6 @@
   - [Clean Code, a very powerful book about good coding practices - writing it so well that comments shouldn't be needed](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/)
   - [ARM template reference](https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/syntax)
   - [Key vault reference in ARM templates](https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/key-vault-parameter?tabs=azure-cli)
+  - [Quickstart ARM templates](https://github.com/Azure/azure-quickstart-templates/tree/master)
+  - [Azure automation GitHub organization[(https://github.com/azureautomation)
+    - [Runbooks gallery](https://github.com/azureautomation/runbooks)
