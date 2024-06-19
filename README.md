@@ -65,6 +65,8 @@
   - Strangler Fig pattern, a good way to break a monolyth into microservices
     - [Martin Fowler's original definition](https://martinfowler.com/bliki/StranglerFigApplication.html)
     - [Discussion in the Azure Architecture Center](https://learn.microsoft.com/en-us/azure/architecture/patterns/strangler-fig)
-   
+   - SSO in GitHub:
+     - [With SAML](https://docs.github.com/en/enterprise-cloud@latest/admin/identity-and-access-management/using-saml-for-enterprise-iam/configuring-saml-single-sign-on-for-your-enterprise)
+     - [With SCIM](https://docs.github.com/en/enterprise-cloud@latest/organizations/managing-saml-single-sign-on-for-your-organization/about-scim-for-organizations) 
     - 
   - 
