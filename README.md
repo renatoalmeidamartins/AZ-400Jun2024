@@ -93,3 +93,6 @@
 - [Enabling GitHub Advanced Security for Azure DevOps repos](https://learn.microsoft.com/en-us/azure/devops/repos/security/configure-github-advanced-security-features?view=azure-devops&tabs=yaml)
 - [List of built-in Azure policy definituions](https://learn.microsoft.com/en-us/azure/governance/policy/samples/built-in-initiatives)
 - [Repo containing all Azure policies](https://github.com/Azure/azure-policy)
+- [Azure Policy Structure](https://learn.microsoft.com/en-us/azure/governance/policy/concepts/definition-structure-basics)
+- [The cathedral and the bazaar - interesting book comparing closed and open-source](https://www.amazon.com/Cathedral-Bazaar-Musings-Accidental-Revolutionary/dp/0596001088/)
+- [Using Azure Artifacts for Nuget packages (other package formats are in the same page tree)](https://learn.microsoft.com/en-us/azure/devops/artifacts/get-started-nuget?view=azure-devops&tabs=windows)
