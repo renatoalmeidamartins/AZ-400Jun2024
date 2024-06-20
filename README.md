@@ -109,3 +109,4 @@ Please complete the ESI learner satisfaction survey form [https://ncv.microsoft.
 - [Configuring action groups in Azure Monitor](https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/action-groups)
 - [Integrating action groups into ITSM systems](https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/itsmc-overview)
 - [Conducting a blameless postmortem](https://www.atlassian.com/incident-management/postmortem/blameless)
+- [PSRule - definition of rules to be checked before deployment of IaC resources](https://microsoft.github.io/PSRule/v2/)
