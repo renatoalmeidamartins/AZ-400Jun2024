@@ -87,5 +87,9 @@
 - [Azure loves Terraform](https://learn.microsoft.com/en-us/azure/developer/terraform/overview)
 - [OWASP Threat Dragon](https://owasp.org/www-project-threat-dragon/)
 - [Microsoft Threat modeling tool](https://learn.microsoft.com/en-us/azure/security/develop/threat-modeling-tool)
--  
-- 
+- [CodeQL - creates ^databases^ from your code, allowing to check with queries, for security issues](https://codeql.github.com/)
+- [Working with dependabot](https://docs.github.com/en/code-security/getting-started/dependabot-quickstart-guide)
+- [Dependabot for Azure DevOps](https://marketplace.visualstudio.com/items?itemName=tingle-software.dependabot)
+- [Enabling GitHub Advanced Security for Azure DevOps repos](https://learn.microsoft.com/en-us/azure/devops/repos/security/configure-github-advanced-security-features?view=azure-devops&tabs=yaml)
+- [List of built-in Azure policy definituions](https://learn.microsoft.com/en-us/azure/governance/policy/samples/built-in-initiatives)
+- [Repo containing all Azure policies](https://github.com/Azure/azure-policy)
