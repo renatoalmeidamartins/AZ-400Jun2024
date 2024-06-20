@@ -98,3 +98,7 @@
 - [Using Azure Artifacts for Nuget packages (other package formats are in the same page tree)](https://learn.microsoft.com/en-us/azure/devops/artifacts/get-started-nuget?view=azure-devops&tabs=windows)
 - [Azure Artifacts feed permissions](https://learn.microsoft.com/en-us/azure/devops/artifacts/feeds/feed-permissions?view=azure-devops)
 - [GitHub packages](https://docs.github.com/en/packages/learn-github-packages/introduction-to-github-packages)
+- [Kusto query language](https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/kql-quick-reference)
+- [Configuring action groups in Azure Monitor](https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/action-groups)
+- [Integrating action groups into ITSM systems](https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/itsmc-overview)
+- [Conducting a blameless postmortem](https://www.atlassian.com/incident-management/postmortem/blameless)
