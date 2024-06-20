@@ -1,5 +1,12 @@
 # AZ-400 - Course links
 
+# Course evaluation!!!
+Please complete the ESI learner satisfaction survey form [https://ncv.microsoft.com/BnGzbJPnzZ](https://ncv.microsoft.com/BnGzbJPnzZ). It could have come via email with the subject  “ESI course completed. Next step, book your Free exam!”  from esireg@microsoft.com . It should have a link to the "ESI Training Survey"
+
+### My contat info:
+- [Linkedin](https://www.linkedin.com/in/renatodealmeidamartins/)
+- Email: renatoalmeidamartins at gmail dot com
+
 ## Day 1 links
 
 - [AZ-400 Learning Paths](https://aka.ms/CourseAZ-400)
