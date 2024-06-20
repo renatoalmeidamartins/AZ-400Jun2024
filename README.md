@@ -83,3 +83,4 @@
 - [Traffic manager routing methods](https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-routing-methods)
 - [Choosing a load balancing solution](https://learn.microsoft.com/en-us/azure/architecture/guide/technology-choices/load-balancing-overview)
 - [Instrumenting code for app configuration](https://learn.microsoft.com/en-us/azure/azure-app-configuration/manage-feature-flags?tabs=azure-portal)
+- [Azure resource manager deployment modes](https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/deployment-modes)
